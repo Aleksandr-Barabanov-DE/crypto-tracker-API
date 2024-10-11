@@ -1,4 +1,5 @@
 # Crypto Tracker
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Barabanov-DE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Developed a real-time cryptocurrency tracking application featuring:
 
