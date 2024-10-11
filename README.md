@@ -1,4 +1,5 @@
 # Crypto Tracker
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aleksandr-Barabanov-DE)](https://github.com/ryo-ma/github-profile-trophy)
 
 Developed a real-time cryptocurrency tracking application featuring:
 
