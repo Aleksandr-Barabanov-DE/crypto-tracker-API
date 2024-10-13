@@ -60,8 +60,6 @@ Crypto Tracker is a real-time cryptocurrency tracking application designed to pr
 
 ## Improvements
 
-- **Code Structure**: Consider modularizing the code for better readability and maintenance. Functions related to data fetching and rendering could be in separate modules.
-
 - **Error Handling**: Implement error handling for API requests to improve robustness and user feedback during failures.
 
 - **Customization Options**: Allow users to customize their experience, such as selecting preferred currencies for price displays.
